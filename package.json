@@ -1,0 +1,21 @@
+{
+  "name": "gulp_starter_pack",
+  "version": "1.0.0",
+  "description": "gulp_postcss_starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Natasha Kelly",
+  "license": "MIT",
+  "repository": "https://github.com/gURLmeetsCode/gulp_postcss_browsersync_starter.git",
+  "devDependencies": {
+    "autoprefixer": "^7.1.5",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-nested": "^2.1.2",
+    "postcss-simple-vars": "^4.1.0"
+  }
+}
